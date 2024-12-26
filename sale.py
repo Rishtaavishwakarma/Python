@@ -1,0 +1,11 @@
+print("enter data")
+data= input().split(" ")
+print(data)
+print("monday:",data[0])
+print("tuesday:",data[1])
+print("wednesday:",data[2])
+print("thursday:",data[3])
+print("friday:",data[4])
+print("saturday:",data[5])
+print("sunday:",data[6])
+
